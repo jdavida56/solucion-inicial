@@ -1,0 +1,12 @@
+C:\Users\JDAVID\Google Drive\CONSULTORES_ASOCIADOS\persistencia\bin\Debug\net5.0\persistencia.deps.json
+C:\Users\JDAVID\Google Drive\CONSULTORES_ASOCIADOS\persistencia\bin\Debug\net5.0\persistencia.dll
+C:\Users\JDAVID\Google Drive\CONSULTORES_ASOCIADOS\persistencia\bin\Debug\net5.0\ref\persistencia.dll
+C:\Users\JDAVID\Google Drive\CONSULTORES_ASOCIADOS\persistencia\bin\Debug\net5.0\persistencia.pdb
+C:\Users\JDAVID\Google Drive\CONSULTORES_ASOCIADOS\persistencia\obj\Debug\net5.0\persistencia.csproj.AssemblyReference.cache
+C:\Users\JDAVID\Google Drive\CONSULTORES_ASOCIADOS\persistencia\obj\Debug\net5.0\persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JDAVID\Google Drive\CONSULTORES_ASOCIADOS\persistencia\obj\Debug\net5.0\persistencia.AssemblyInfoInputs.cache
+C:\Users\JDAVID\Google Drive\CONSULTORES_ASOCIADOS\persistencia\obj\Debug\net5.0\persistencia.AssemblyInfo.cs
+C:\Users\JDAVID\Google Drive\CONSULTORES_ASOCIADOS\persistencia\obj\Debug\net5.0\persistencia.csproj.CoreCompileInputs.cache
+C:\Users\JDAVID\Google Drive\CONSULTORES_ASOCIADOS\persistencia\obj\Debug\net5.0\persistencia.dll
+C:\Users\JDAVID\Google Drive\CONSULTORES_ASOCIADOS\persistencia\obj\Debug\net5.0\ref\persistencia.dll
+C:\Users\JDAVID\Google Drive\CONSULTORES_ASOCIADOS\persistencia\obj\Debug\net5.0\persistencia.pdb

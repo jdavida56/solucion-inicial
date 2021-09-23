@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JDAVID\\Google Drive\\CONSULTORES_ASOCIADOS\\aplicacion\\aplicacion.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JDAVID\\Google Drive\\CONSULTORES_ASOCIADOS\\aplicacion\\aplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JDAVID\\Google Drive\\CONSULTORES_ASOCIADOS\\aplicacion\\aplicacion.csproj",
+        "projectName": "aplicacion",
+        "projectPath": "C:\\Users\\JDAVID\\Google Drive\\CONSULTORES_ASOCIADOS\\aplicacion\\aplicacion.csproj",
+        "packagesPath": "C:\\Users\\JDAVID\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JDAVID\\Google Drive\\CONSULTORES_ASOCIADOS\\aplicacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JDAVID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\JDAVID\\Google Drive\\CONSULTORES_ASOCIADOS\\persistencia\\persistencia.csproj": {
+                "projectPath": "C:\\Users\\JDAVID\\Google Drive\\CONSULTORES_ASOCIADOS\\persistencia\\persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JDAVID\\Google Drive\\CONSULTORES_ASOCIADOS\\persistencia\\persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JDAVID\\Google Drive\\CONSULTORES_ASOCIADOS\\persistencia\\persistencia.csproj",
+        "projectName": "persistencia",
+        "projectPath": "C:\\Users\\JDAVID\\Google Drive\\CONSULTORES_ASOCIADOS\\persistencia\\persistencia.csproj",
+        "packagesPath": "C:\\Users\\JDAVID\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JDAVID\\Google Drive\\CONSULTORES_ASOCIADOS\\persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JDAVID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

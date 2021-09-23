@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JDAVID\\Google Drive\\CONSULTORES_ASOCIADOS\\dominio\\dominio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JDAVID\\Google Drive\\CONSULTORES_ASOCIADOS\\dominio\\dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JDAVID\\Google Drive\\CONSULTORES_ASOCIADOS\\dominio\\dominio.csproj",
+        "projectName": "dominio",
+        "projectPath": "C:\\Users\\JDAVID\\Google Drive\\CONSULTORES_ASOCIADOS\\dominio\\dominio.csproj",
+        "packagesPath": "C:\\Users\\JDAVID\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JDAVID\\Google Drive\\CONSULTORES_ASOCIADOS\\dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JDAVID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {}
+      }
+    }
+  }
+}
